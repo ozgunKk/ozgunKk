@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgunkk&label=Profile%20views&color=0e75b6&style=flat" alt="ozgunkk" /> </p>
 
-- 🔭 I’m currently working on **Company Management App** and **New Mobile App**
+- 🔭 I’m currently working on a **New Mobile App** using **Flutter**
 
 - 🌱 I’m currently learning **React, Flask, Django, Flutter, Jinja, Azure Services, CI/CD Pipelines**
 
