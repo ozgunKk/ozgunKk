@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgunkk&label=Profile%20views&color=0e75b6&style=flat" alt="ozgunkk" /> </p>
 
-- 🔭 I’m currently working on a **New Mobile App** using **Flutter**
+- 🔭 I’m currently working on a **Diegetic Analysis for VR Presentations** using **Unity** with **Meta Quest 3**
 
-- 🌱 I’m currently learning **React, Flask, Django, Flutter, Jinja, Azure Services, CI/CD Pipelines**
+- 🌱 I’m currently learning **Azure, AWS, C#, OpenGL and PyTorch**
 
 - 📫 How to reach me **ozgun.slash@gmail.com**
 
